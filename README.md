@@ -21,6 +21,7 @@ Printing Top Words: The script prints the top 100 words (features) based on thei
 
 Result for the text-based model:
 
-![Alt text](image.png)
+<img width="352" alt="image" src="https://github.com/adishinde2110/SEC_Doc_Classification/assets/93417446/a205284c-c7b7-4ecb-bfaa-f6f0b0a6ee93">
+
 
 Text-based classification yields better results compared to image-based approach like Convolutional Neural Networks (CNN) when dealing with documents that have similar formats because text carries more semantic information and is inherently more structured and interpretable. In the case of forms or documents with consistent layouts, textual content contains valuable context, keywords, and patterns that can be leveraged for classification. Text-based models can exploit linguistic features, such as keywords, phrases, and the relationship between words, to discern the meaning and purpose of a document effectively. Additionally, text data is usually less resource-intensive to process and requires smaller datasets for training, making it more practical when labeled data is limited. While CNNs excel at image recognition tasks, documents with similar layouts may not have enough visual diversity to differentiate them effectively, and text-based models can provide superior accuracy by focusing on the content of the text.
